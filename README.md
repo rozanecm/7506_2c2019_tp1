@@ -13,3 +13,6 @@ Para setear el entorno se recomienda crear un virtual env de Python mediante el 
 
 # Datos
 Los datos se descargan de [aquí](https://metadata.fundacionsadosky.org.ar/media/navent/train.csv).
+
+# Informe
+Para editar el informe final a entregar, hacer click [aquí](https://docs.google.com/document/d/17chbdraKmdD-PuQfuDllOiPSCcroxKfJrJB_1Q-ZiY4/edit#).
