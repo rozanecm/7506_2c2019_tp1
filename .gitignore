@@ -1,3 +1,5 @@
 venv/
 
 data/train.csv
+
+*checkpoint.ipynb
