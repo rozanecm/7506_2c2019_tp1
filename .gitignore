@@ -4,4 +4,4 @@ data/train.csv
 
 notebooks/data/
 
-*checkpoint.ipynb
+*.ipynb_checkpoints/
