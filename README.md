@@ -16,3 +16,5 @@ Los datos se descargan de [aquí](https://metadata.fundacionsadosky.org.ar/media
 
 # Informe
 Para editar el informe final a entregar, hacer click [aquí](https://docs.google.com/document/d/17chbdraKmdD-PuQfuDllOiPSCcroxKfJrJB_1Q-ZiY4/edit#).
+
+Para leer el informe final, hacer click [aquí](informe.pdf).
